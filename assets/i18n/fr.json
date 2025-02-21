@@ -219,7 +219,7 @@
     "PrimeFormateur": "PRIME  DE FORMATEUR 2%",
     "TauxPrimeZone":"taux de pourcentage de la prime ",
     "TauxPrimeSection":"taux de pourcentage de la prime ",
-    "SalaireAgents": "NUMERAIRE DES AGENTS 23%",
+    "SalaireAgents": "NUMERAIRE DES AGENTS",
     "CumulManagers": "CUMMUL DES MANAGERS",
     "NetPayer": "Net à payer",
     "sorties.destination":"entrepôt",
